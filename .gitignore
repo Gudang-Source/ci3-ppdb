@@ -3,6 +3,5 @@ application/logs/*
 !application/logs/.htaccess
 application/views/admin/cache/
 application/views/public/cache/
-uploads/docs/
-uploads/gambar/
 vendor/
+composer
